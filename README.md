@@ -6,7 +6,7 @@ I'm a **Full-stack Developer** working in Rio de Janeiro, Brazil.
 
 ## A little about me
 
-- 🔨 I'm currently working at [XP Inc.](https://www.xpinc.com).
+- 🔨 I'm currently working at [XP Investimentos](https://www.xpi.com.br/).
 - 🌱 I’m currently learning everything related to **Web Development**.
 - 📚 Self-taught.
 - 💬 Ping me about **design thinking** and **development**.
