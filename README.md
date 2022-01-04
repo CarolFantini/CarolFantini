@@ -50,6 +50,6 @@ I'm a **Full-stack Developer** working in Rio de Janeiro, Brazil.
 <a href="https://github.com/CarolFantini/BCChallenge">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CarolFantini&repo=BCChallenge&theme=vision-friendly-dark&cache_seconds=1800&locale=en" />
 </a>
-<a href="https://github.com/CarolFantini/VHChallenge">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CarolFantini&repo=VHChallenge&theme=vision-friendly-dark&cache_seconds=1800&locale=en" />
+<a href="https://github.com/CarolFantini/EducAnalysis">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CarolFantini&repo=EducAnalysis&theme=vision-friendly-dark&cache_seconds=1800&locale=en" />
 </a>
