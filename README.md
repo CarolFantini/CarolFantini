@@ -2,7 +2,7 @@
   Welcome to Carolina Fantini's profile!
 </h3>
 
-I'm a **Full-stack Developer** working in Rio de Janeiro, Brazil.
+I'm a **.NET Developer** working in Rio de Janeiro, Brazil.
 
 ## A little about me
 
@@ -11,10 +11,10 @@ I'm a **Full-stack Developer** working in Rio de Janeiro, Brazil.
 - 📚 Self-taught.
 - 💬 Ping me about **design thinking** and **development**.
 - 🎯 In the near future, I plan to...
-  - Learn more about **Python** and **Docker**
+  - Learn more about **Python** and **MongoDB**
 - 🤞 One day I hope to...
   - Work at Microsoft.
-  - Travel to Canada.
+  - Travel to Canada and UK.
 - ‼️ Fun fact: I'm a HUGE fan of CS: GO.
 - 📫 Reach me at [Twitter](https://twitter.com/carol_fantini) or [LinkedIn](https://linkedin.com/in/carolfantini).
 
@@ -49,4 +49,8 @@ I'm a **Full-stack Developer** working in Rio de Janeiro, Brazil.
 
 <a href="https://github.com/CarolFantini/BCChallenge">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CarolFantini&repo=BCChallenge&theme=vision-friendly-dark&cache_seconds=1800&locale=en" />
+</a>
+
+<a href="https://github.com/CarolFantini/StoneChallenge">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CarolFantini&repo=StoneChallenge&theme=vision-friendly-dark&cache_seconds=1800&locale=en" />
 </a>
