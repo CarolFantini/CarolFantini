@@ -20,22 +20,22 @@ I'm a **.NET Developer** working in Rio de Janeiro, Brazil.
 
 ## Some Hard Skills
 
-![CSS3](https://img.shields.io/badge/CSS-%231572B6.svg?logo=css3)
-![HTML5](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-%23025E8C.svg?logo=amazon-dynamodb)
 ![C#](https://img.shields.io/badge/C%23-8A2BE2.svg?logo=c-sharp)
 ![.NET](https://img.shields.io/badge/.NET-5C2D91?logo=.net)
-![Angular](https://img.shields.io/badge/Angular-F05032.svg?logo=angular)
-![React](https://img.shields.io/badge/React-61DAFB.svg?logo=react&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-5C2D91.svg?logo=bootstrap&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-%23025E8C.svg?logo=amazon-dynamodb)
+![Azure DevOps](https://img.shields.io/badge/Azure-3333FF.svg?logo=microsoft%20azure)
 ![Swagger](https://img.shields.io/badge/Swagger-000033?logo=swagger)
 ![Postman](https://img.shields.io/badge/Postman-FF8533?logo=postman&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-000066?logo=mysql&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-3333FF.svg?logo=microsoft%20azure)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?logo=visual-studio&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?&logo=git&logoColor=FFFFFF)
+![Angular](https://img.shields.io/badge/Angular-F05032.svg?logo=angular)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-FFFFFF?logo=microsoft-sql-server&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-000066?logo=mysql&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS-%231572B6.svg?logo=css3)
+![HTML5](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?logo=javascript&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-5C2D91.svg?logo=bootstrap&logoColor=white)
 
 ## Stats
 
