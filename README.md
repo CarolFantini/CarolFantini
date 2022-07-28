@@ -7,14 +7,14 @@ I'm a **.NET Developer** working in Rio de Janeiro, Brazil.
 ## A little about me
 
 - 🔨 I'm working at [XP Investimentos](https://www.xpi.com.br/).
-- 🌱 I’m currently learning everything related to **Web Development**... but my heart is for the backend (Go C#!).
+- 🌱 I’m currently learning everything related to **.NET and C#**... my heart is for the backend.
 - 📚 Self-taught.
-- 💬 Ping me about **design thinking** and **development**.
+- 💬 Ping me about **design thinking** and **backend development**.
 - 🎯 In the near future, I plan to...
-  - Learn more about **Python** and **MongoDB**
+  - Learn more about **AWS** and **MongoDB**
 - 🤞 One day I hope to...
-  - Work at Microsoft.
-  - Travel to Canada and UK.
+  - become a MVP of Mcrosoft.
+  - travel to Canada and UK.
 - ‼️ Fun fact: I'm a HUGE fan of CS: GO.
 - 📫 Reach me at [Twitter](https://twitter.com/carol_fantini) or [LinkedIn](https://linkedin.com/in/carolfantini).
 
@@ -29,13 +29,11 @@ I'm a **.NET Developer** working in Rio de Janeiro, Brazil.
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?logo=visual-studio&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?&logo=git&logoColor=FFFFFF)
-![Angular](https://img.shields.io/badge/Angular-F05032.svg?logo=angular)
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-FFFFFF?logo=microsoft-sql-server&logoColor=black)
 ![MySQL](https://img.shields.io/badge/MySQL-000066?logo=mysql&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS-%231572B6.svg?logo=css3)
 ![HTML5](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?logo=javascript&logoColor=black)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-5C2D91.svg?logo=bootstrap&logoColor=white)
 
 ## Stats
 
@@ -47,10 +45,10 @@ I'm a **.NET Developer** working in Rio de Janeiro, Brazil.
   
 ## Top Projects
 
-<a href="https://github.com/CarolFantini/BCChallenge">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CarolFantini&repo=BCChallenge&theme=vision-friendly-dark&cache_seconds=1800&locale=en" />
-</a>
-
 <a href="https://github.com/CarolFantini/StoneChallenge">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CarolFantini&repo=StoneChallenge&theme=vision-friendly-dark&cache_seconds=1800&locale=en" />
+</a>
+
+<a href="https://github.com/CarolFantini/BCChallenge">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CarolFantini&repo=BCChallenge&theme=vision-friendly-dark&cache_seconds=1800&locale=en" />
 </a>
