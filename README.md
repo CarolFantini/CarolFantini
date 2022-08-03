@@ -2,14 +2,14 @@
   Welcome to Carolina Fantini's profile!
 </h3>
 
-I'm a **.NET Developer** working in Rio de Janeiro, Brazil.
+I'm a **Software Engineer** working in Rio de Janeiro, Brazil.
 
 ## A little about me
 
-- 🔨 I'm working at [XP Investimentos](https://www.xpi.com.br/).
-- 🌱 I’m currently learning everything related to **.NET/C# and Software Architecture**.
+- 🔨 I'm working at [Stone](https://www.stone.co/).
+- 🌱 I’m currently learning everything related to **.NET/C#** and **Software Architecture**.
 - 📚 Self-taught.
-- 💬 Ping me about **design thinking** and **backend development**.
+- 💬 Ping me about **design thinking**, **.NET** and **DevOps**.
 - 🎯 In the near future, I plan to...
   - Learn more about **AWS** and **MongoDB**
 - 🤞 One day I hope to...
