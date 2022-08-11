@@ -6,7 +6,7 @@ I'm a **Software Engineer** working in Rio de Janeiro, Brazil.
 
 ## A little about me
 
-- 🔨 I'm working at [Stone](https://www.stone.co/).
+- 🔨 I'm working at [Stone](https://www.stone.com.br/).
 - 🌱 I’m currently learning everything related to **.NET/C#** and **Software Architecture**.
 - 📚 Self-taught.
 - 💬 Ping me about **design thinking**, **.NET** and **DevOps**.
