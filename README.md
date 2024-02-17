@@ -9,14 +9,14 @@ I'm a **Software Engineer** working in Rio de Janeiro, Brazil.
 - :woman_student: I have a **bachelor's degree** in **Information Systems** at the Federal University of the State of Rio de Janeiro.
 - :seedling: I'm on track for learning more about **Cloud Architecture** and **Data Science**.
 - :books: Self-taught.
-- :speech_balloon: Ping me about **Design Thinking** and **Software Architecture**.
+- :speech_balloon: Ping me about **Architecture** and **Software Architecture**.
 - :dart: In the near future, I plan to...
-  - Learn more about: ![](https://img.shields.io/badge/Docker-2CA5E0?logo=docker&logoColor=white) ![](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black) ![](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white)
+  - Learn more about: ![](https://img.shields.io/badge/Docker-2CA5E0?logo=docker&logoColor=white) ![](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white)
 - :crossed_fingers: One day I hope to...
   - become a Microsoft MVP.
   - travel to Canada, UK and Netherlands.
 - :bangbang: Fun fact: I'm a HUGE fan of [![](https://img.shields.io/badge/Counter%20Strike-000000?logo=counter-strike&logoColor=white)](https://steamcommunity.com/id/c4rolfantini/)
-- :desktop_computer: I'm using ![](https://img.shields.io/badge/AMD-Ryzen_7_7700-ED1C24?logo=amd&logoColor=white) ![](https://img.shields.io/badge/NVIDIA-RTX%204070-76B900?logo=nvidia&logoColor=white)
+- :desktop_computer: I'm using ![](https://img.shields.io/badge/AMD-Ryzen_7_7700-ED1C24?logo=amd&logoColor=white) ![](https://img.shields.io/badge/NVIDIA-RTX%204070%20Super-76B900?logo=nvidia&logoColor=white)
 
 ## :hammer_and_wrench: Tech Stack & Tools
 
@@ -52,4 +52,3 @@ I'm a **Software Engineer** working in Rio de Janeiro, Brazil.
 
 [![](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carolfantini/)
 [![](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/c4rolfantini)
-[![](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/c4rolfantini)
