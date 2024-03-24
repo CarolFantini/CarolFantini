@@ -7,7 +7,7 @@ I'm a **Software Engineer** working in Rio de Janeiro, Brazil.
 ## :woman_technologist: A little about me
 
 - :woman_student: I have a **bachelor's degree** in **Information Systems**
-- :books: Self-taught.
+- :books: Self-taught
 - :computer: I love PC building and computer hardware
 - :speech_balloon: Ping me about **Architecture** and **Software Architecture**
 - :dart: In the near future, I plan to...
@@ -54,6 +54,7 @@ I'm a **Software Engineer** working in Rio de Janeiro, Brazil.
 ![](https://img.shields.io/badge/Visual_Studio-5C2D91?logo=visual%20studio)
 ![](https://img.shields.io/badge/Visual_Studio_Code-0078D4?logo=visual%20studio%20code)
 ![](https://img.shields.io/badge/Git-E44C30?&logo=git&logoColor=white)
+![](https://img.shields.io/badge/GitHub-white?&logo=github&logoColor=black)
 ![](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
 
 ## :bar_chart: GitHub Analytics
