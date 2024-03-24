@@ -18,6 +18,8 @@ I'm a **Software Engineer** working in Rio de Janeiro, Brazil.
 
 ## :desktop_computer: My Workspace
 
+![](https://img.shields.io/badge/Microsoft-Windows%2011-blue?logo=windows)
+
 ![](https://img.shields.io/badge/ASRock-B650E%20PG%20Riptide%20WiFi-008000?logo=asrock)
 
 ![](https://img.shields.io/badge/AMD-Ryzen%207%207700-ED1C24?logo=amd)
