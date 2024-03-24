@@ -16,7 +16,7 @@ I'm a **Software Engineer** working in Rio de Janeiro, Brazil.
   - become a Microsoft MVP.
   - travel to Canada, UK and Netherlands.
 - :bangbang: Fun fact: I'm a HUGE fan of [![](https://img.shields.io/badge/Counter%20Strike-000000?logo=counter-strike&logoColor=white)](https://steamcommunity.com/id/c4rolfantini/)
-- :desktop_computer: I'm using ![](https://img.shields.io/badge/AMD-Ryzen_7_7700-ED1C24?logo=amd&logoColor=white) ![](https://img.shields.io/badge/NVIDIA-RTX%204070%20Super-76B900?logo=nvidia&logoColor=white)
+- :desktop_computer: I'm using ![](https://img.shields.io/badge/Ryzen-7%207700-ED1C24?logo=amd&logoColor=white) ![](https://img.shields.io/badge/Radeon-RX%207800%20XT%20-ED1C24?logo=amd)
 
 ## :hammer_and_wrench: Tech Stack & Tools
 
@@ -51,4 +51,3 @@ I'm a **Software Engineer** working in Rio de Janeiro, Brazil.
 ## :handshake: Connect with Me
 
 [![](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carolfantini/)
-[![](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/c4rolfantini)
