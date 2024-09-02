@@ -24,15 +24,15 @@ I'm a **Software Engineer** working in Rio de Janeiro, Brazil.
 
 ![](https://img.shields.io/badge/AMD-Ryzen%207%207700-ED1C24?logo=amd)
 
-![](https://img.shields.io/badge/Corsair-Vengeance%205600MHz%20CL%2036%202x16GB-FFD700?logo=corsair)
+![](https://img.shields.io/badge/Corsair-Vengeance%205600MHz%20CL36%202x16GB-FFD700?logo=corsair)
 
-![](https://img.shields.io/badge/Kingston-NV2%20M.2%202280%20PCIE%20500GB-white?logo=kingston)
+![](https://img.shields.io/badge/Kingston-NV2%20M.2%202280%20500GB-white?logo=kingston)
 
-![](https://img.shields.io/badge/Movespeed-M.2%202280%20PCIE%201TB-white?logo=movespeed)
+![](https://img.shields.io/badge/Movespeed-M.2%202280%201TB-white?logo=movespeed)
 
-![](https://img.shields.io/badge/MSI-MAG%20A850GL%20PCIE5-red?logo=msi)
+![](https://img.shields.io/badge/MSI-MAG%20A850GL-red?logo=msi)
 
-![](https://img.shields.io/badge/AMD-Radeon%20RX%207800%20XT%20-ED1C24?logo=amd)
+![](https://img.shields.io/badge/AMD-Radeon%20RX%207800%20XT%20OC-ED1C24?logo=amd)
 
 ## :hammer_and_wrench: Tech Stack & Tools
 
