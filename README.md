@@ -18,13 +18,11 @@ I'm a **Software Engineer** working in Rio de Janeiro, Brazil.
 
 ## :desktop_computer: My Workspace
 
-![](https://img.shields.io/badge/Microsoft-Windows%2011-blue?logo=windows)
-
 ![](https://img.shields.io/badge/ASRock-B650E%20PG%20Riptide%20WiFi-008000?logo=asrock)
 
 ![](https://img.shields.io/badge/AMD-Ryzen%207%207700-ED1C24?logo=amd)
 
-![](https://img.shields.io/badge/Corsair-Vengeance%205600MHz%20CL36%202x16GB-FFD700?logo=corsair)
+![](https://img.shields.io/badge/Corsair-Vengeance%20RGB%206000MHz%20CL36%202x16GB-FFD700?logo=corsair)
 
 ![](https://img.shields.io/badge/Kingston-NV2%20M.2%202280%20500GB-white?logo=kingston)
 
@@ -32,7 +30,7 @@ I'm a **Software Engineer** working in Rio de Janeiro, Brazil.
 
 ![](https://img.shields.io/badge/MSI-MAG%20A850GL-red?logo=msi)
 
-![](https://img.shields.io/badge/AMD-Radeon%20RX%207800%20XT%20OC-ED1C24?logo=amd)
+![](https://img.shields.io/badge/AMD-NITRO+%20Radeon%20RX%207800%20XT%2016GB-ED1C24?logo=amd)
 
 ## :hammer_and_wrench: Tech Stack & Tools
 
