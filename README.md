@@ -11,7 +11,7 @@ I'm a **Software Engineer** working in Rio de Janeiro, Brazil.
 - :computer: I love PC building and computer hardware
 - :speech_balloon: Ping me about **Architecture** and **Software Architecture**
 - :dart: In the near future, I plan to...
-  - Learn more about: ![](https://img.shields.io/badge/Docker-2CA5E0?logo=docker&logoColor=white) ![](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws)
+  - Learn more about: ![](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws)
 - :crossed_fingers: One day I hope to...
   - travel to Canada, UK and Netherlands
 - :bangbang: Fun fact: I'm a HUGE fan of [![](https://img.shields.io/badge/Counter%20Strike-000000?logo=counter-strike)](https://steamcommunity.com/id/c4rolfantini/)
@@ -45,6 +45,8 @@ I'm a **Software Engineer** working in Rio de Janeiro, Brazil.
 
 ![](https://img.shields.io/badge/Azure_DevOps-0078D7?logo=azure-devops)
 ![](https://img.shields.io/badge/RabbitMQ-FF6600?logo=RabbitMQ&logoColor=white)
+![](https://img.shields.io/badge/Docker-2CA5E0?logo=docker&logoColor=white)
+![](https://img.shields.io/badge/PowerBI-FFD700?logo=PowerBI&logoColor=white)
 ![](https://img.shields.io/badge/Swagger-85EA2D?logo=Swagger&logoColor=white)
 
 ![](https://img.shields.io/badge/SQL%20Server-FFFFFF?logo=microsoft-sql-server&logoColor=black)
